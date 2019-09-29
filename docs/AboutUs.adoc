@@ -10,7 +10,7 @@ We are a team based in the http://www.comp.nus.edu.sg[School of Computing, Natio
 
 == PCC Project Team
 
-=== Prof. Damith C. Rajapakse
+=== Professor Damith C. Rajapakse
 image::damithc.jpg[width="150", align="left"]
 {empty}[http://www.comp.nus.edu.sg/~damithch[homepage]] [https://github.com/damithc[github]]
 
@@ -23,7 +23,8 @@ image::HoWeiChin.png[width="180", align="left"]
 {empty}[https://github.com/HoWeiChin[github]] [<<howeichin#, portfolio>>]
 
 Role: Team Lead +
-Responsibilities: Deliverable, Tracking
+Responsibilities: Deliverable, Tracking, User Interface +
+Component IC: Athletes
 
 '''
 
@@ -32,7 +33,8 @@ image::ooimingsheng.png[width="180", align="left"]
 {empty}[https://github.com/ooimingsheng[github]] [<<ooimingsheng#, portfolio>>]
 
 Role: Developer +
-Responsibilities: Integration, Code Quality
+Responsibilities: Integration, Code Quality +
+Component IC: Leaderboard
 
 '''
 
@@ -41,7 +43,8 @@ image::shawnkoh.png[width="180", align="left"]
 {empty}[https://github.com/shawnkoh[github]] [<<shawnkoh#, portfolio>>]
 
 Role: Developer +
-Responsibilities: Project Workflow, Code Quality
+Responsibilities: Project Workflow, User interface, Code Quality +
+Component IC: Competitions Overview
 
 '''
 
@@ -50,6 +53,7 @@ image::belbel98.png[width="180", align="left"]
 {empty}[https://github.com/belbel98[github]] [<<christabelteo#, portfolio>>]
 
 Role: Developer +
-Responsibilities: Documentation, Testing
+Responsibilities: Documentation, Testing +
+Component IC: Session Handling
 
 '''
